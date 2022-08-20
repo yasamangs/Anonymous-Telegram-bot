@@ -10,7 +10,7 @@ export PYTHONPATH=${PWD}
 ```
 in the terminal.
 
-2. Set your Telegram bot token as environment variableCancel changes
+2. Set your Telegram bot token as environment variable changes
 ```
 export BOT_TOKEN=<Your given token from bot father bot in Telegram>
 ```
