@@ -1,6 +1,5 @@
 #  A Telegram bot for connecting strangers in a complete anonymous way
 
-All the basic needs for creating a Telegram Bot.
 
 ## How to run
 
